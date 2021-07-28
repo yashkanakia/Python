@@ -1,0 +1,9 @@
+https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/
+
+https://datahack.analyticsvidhya.com/contest/practice-problem-time-series-2/
+
+https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/
+
+https://www.digitalocean.com/community/tutorials/a-guide-to-time-series-visualization-with-python-3
+
+https://www.analyticssteps.com/blogs/tutorial-exponential-smoothing-and-its-types
